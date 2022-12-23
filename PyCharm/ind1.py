@@ -14,3 +14,4 @@ def summa(*args):
 if __name__ == '__main__':
     print(f'Сумма = {summa(7, -3, 8, 0, -1, 5, 1)}')
     print(f'Сумма = {summa()}')
+    
